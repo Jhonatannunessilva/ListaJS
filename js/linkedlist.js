@@ -20,7 +20,8 @@ class LinkedList {
     }
 
     insert(position, element) {
-
+        teste1234123123213123
+        1wqeqweqweqweqweqeqeq
     }
 
     remove(element) {
@@ -46,7 +47,7 @@ class LinkedList {
     }
 
     removeAt(position) {
-
+        dasdasdadsadasdasdas
     }
 
     size() {
