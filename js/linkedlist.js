@@ -20,7 +20,7 @@ class LinkedList {
     }
 
     insert(position, element) {
-        
+
     }
 
     remove(element) {
@@ -46,7 +46,7 @@ class LinkedList {
     }
 
     removeAt(position) {
-        dasdasdadsadasdasdas
+        
     }
 
     size() {
