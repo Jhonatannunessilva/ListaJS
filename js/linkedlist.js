@@ -67,7 +67,19 @@ class LinkedList {
     }
 
     getElement(position) {
-
+        let current = this.head,
+            pos = 0,
+            notFound = true;
+        
+        while(notFound && current){
+            if (position == pos){
+                notFound = false;
+                return current.content;
+            }
+            current = current.next;
+            pos++;
+        }
+        return null;
     }
 
     search(element) {
